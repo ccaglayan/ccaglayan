@@ -2,9 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
+Week: 19 October, 2020 - 26 October, 2020
 
-
+PHP          38 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
