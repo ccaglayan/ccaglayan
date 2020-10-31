@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2020 - 29 October, 2020
+Week: 23 October, 2020 - 30 October, 2020
 
-PHP        2 hrs 4 mins    █████████████████████▓░░░   86.39 % 
-SQL        14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JSON       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+PHP        2 hrs 38 mins   ███████████████████▓░░░░░   78.49 % 
+SQL        38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+JSON       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
